@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-  repoURL: 'https://github.com/TRIVEDISAGAR37/ArgoCdA.git'
-  path: dev/
+    repoURL: 'https://github.com/TRIVEDISAGAR37/ArgoCdA.git'
+    path: dev/
   targetRevision: HEAD
   destination:
   server: 'https://kubernetes.default.svc'
